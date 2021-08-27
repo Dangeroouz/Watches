@@ -1,0 +1,353 @@
+header{
+	display: flex;
+	justify-content: space-between;
+	font-family: 'Roboto', sans-serif;
+	width: 100%;
+	height: 83px;
+}
+.logodiv{
+	margin-top: 30px;
+	margin-left: 97px;
+}
+.logo{
+	width: 120px;
+	height: 23px;
+	display: block;
+	margin: auto;
+}
+.logo2{
+	width: 120px;
+	height: 23px;
+}
+.manual{
+	width: 422px;
+	height: 13px;
+	display: flex;
+	justify-content: space-between;
+}
+.man:nth-child(1){
+	color: #A69876;
+}
+.man{
+	font-family: 'Roboto', sans-serif;
+	margin-top: 30px;
+}
+.icons{
+	margin-top: 30px;
+	margin-right: 97px;
+}
+body{
+	margin: 0px;
+}
+footer{
+	width: 100%;
+	height: 275px;
+
+	display: flex;
+	background: #444240;
+	justify-content: space-between;
+	font-family: 'Roboto', sans-serif;
+}
+.about{
+	width: 187px;
+	position: relative;
+	left: 182px;
+	top: 67px;
+	display: flex;
+	flex-direction: column;
+}
+.storenumber{
+	width: 187px;
+	height: 17px;
+	color: white;
+	position: relative;
+	top: 32px;
+	font-size: 12px;
+	font-family: 'Roboto', sans-serif;
+}
+.storesite{
+	width: 187px;
+	height: 17px;
+	color: white;
+	position: relative;
+	top: 55px;
+	font-size: 12px;
+	font-family: 'Roboto', sans-serif;
+}
+.about_company{
+	width: 187px;
+	position: relative;
+	left: 2px;
+	top: 67px;
+	display: flex;
+	flex-direction: column;
+}
+.about_shopper{
+	width: 187px;
+	position: relative;
+	left: -122px;
+	top: 67px;
+	display: flex;
+	flex-direction: column;
+}
+.about_payanddelivery{
+	width: 187px;
+	position: relative;
+	left: -222px;
+	top: 67px;
+	display: flex;
+	flex-direction: column;
+}
+.h_company{
+	color: white;
+	position: relative;
+	top: -8px;
+	font-size: 14px;
+	font-family: 'Roboto', sans-serif;
+}
+.h_shopper{
+	color: white;
+	position: relative;
+	top: -8px;
+	font-size: 14px;
+	font-family: 'Roboto', sans-serif;
+}
+.h_payanddelivery{
+	color: white;
+	position: relative;
+	top: -8px;
+	font-size: 14px;
+	font-family: 'Roboto', sans-serif;
+}
+.h_company_lvl{
+	color: rgba(255, 255, 255, 0.75);
+	font-size: 12px;
+}
+.h_company_lvl2{
+	color: rgba(255, 255, 255, 0.75);
+	font-size: 12px;
+		position: relative;
+	top: 7px;
+}
+.h_company_lvl3{
+	color: rgba(255, 255, 255, 0.75);
+	font-size: 12px;
+		position: relative;
+	top: 14px;
+}
+.h_company_lvl4{
+	color: rgba(255, 255, 255, 0.75);
+	font-size: 12px;
+	position: relative;
+	top: 21px;
+}
+main{
+	width: 1187px;
+	margin-left: 203px; 
+	margin-right: 103px; 
+}
+
+.status{
+	display: flex;
+	margin-top: 20px;
+}
+.status p{
+	color: #BDB9B5;
+	margin-left: 6px;
+	font-family: Roboto;
+}
+.status p:nth-child(5){
+	color: #555248;
+
+}
+.status p:nth-child(1){
+	margin-left: 100px;
+}
+.mens_godynnycks{
+	margin-left: 102px;
+	font-size: 32px;
+	font-family: 'PT Serif', serif;
+	color: #1B1A17;
+}
+.align_center{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.allmodels1_line{
+	border: 1px solid #1B1A17;
+	height: 0px;
+	width: 10.07px;
+}
+.allmodels1_line1{
+	border: 1px solid #D4D4D4;
+	height: 0px;
+	width: 30.07px;
+}
+.allmodels1_circle{
+	width: 10px;
+	height: 10px;
+	border: 1px solid #1B1A17;
+	border-radius: 100%;
+}
+.allmodels1{
+	width: 230.07px;
+}
+.allmodels{
+	margin-left: 110px;
+	display: flex;
+}
+.align_center2{
+	display: flex;
+	align-items: center;
+	height: 40px;
+}
+.allmodels1_line2{
+	width: 100px;
+	height: 0px;
+	border: 1px solid #1B1A17;
+}
+.allmodels1_line3{
+	width: 70px;
+	height: 0px;
+	border: 1px solid #D4D4D4;
+}
+.align_center h3{
+	
+	font-family: Roboto;
+}
+.align_center2 img{
+	width: 16px;
+	height: 16px;
+}
+.align_center2_model{
+	margin-left: 15px;
+	font-family: Roboto;
+	margin-bottom: 13px;
+}
+.align_center img{
+	width: 15px;
+}
+.filter_none{
+	border: 2px solid #E7E0CF;
+	box-sizing: border-box;
+	font-family: Roboto;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.vartist{
+	display: flex;
+	margin-left: 30px;
+}
+.vartist p:nth-child(2){
+	margin-left: 60px;
+}
+.allmodels2_block{
+	width: 252px;
+	height: 300px;
+	background: url(../img/back_1.png);
+	margin-bottom: 40px;
+}
+.allmodels2_block_h3{
+	margin: 0px;
+	margin-left: 20px;
+	font-size: 14px;
+	font-family: Roboto;
+	letter-spacing: 0.05em;
+	color: #444240;
+}
+.allmodels2_block_p{
+	margin: 0px;
+	margin-left: 20px;
+	color: #636261;
+	font-size: 14px;
+	font-family: Roboto;
+}
+.allmodels2_block img{
+	margin-top: -52px;
+}
+.allmodels2{
+	justify-content: space-between;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	transform: translate(220px);
+}
+.allmodels2_ad{
+	width: 252px;
+	height: 300px;
+}
+
+.popular_watch{
+	width: 370px;
+	height: 467px;
+	background: #FDFDFB;
+	display: flex;
+	flex-direction: column;
+}
+.popular_watches{
+	display: flex;
+	width: 1270px;
+	justify-content: space-evenly;
+	margin: 0 auto;
+}
+.popular_watch_p h3{
+	font-size: 16px;
+	position: absolute;
+	margin-top: 40px;
+	font-family: Roboto;
+}
+.popular_watch_p p{
+	font-size: 14px;
+	position: absolute;
+	margin: 0px;
+	margin-top: 65px;
+	font-family: Roboto;
+}
+.popular_watch_p{
+	margin-left: 36px;
+
+}
+.popular_watch img{
+	margin-top: 60px;
+}
+.popular_watch img{
+	width: 313px;
+	height: 313px;
+	margin: 0 auto;
+	margin-top: 80px;
+}
+.popular_watch:nth-child(3) img{
+	margin-top: 90px;
+	width: 313px;
+	height: 313px;
+}
+.details{
+	display: flex;
+	align-items: center;
+}
+.details .line{
+	margin-right: 18px;
+	margin-left: 36px;
+}
+.bands h2{
+	font-size: 32px;
+	margin-left: 50px;
+	font-family: 'Roboto', sans-serif;
+	margin-top: 50px;
+}
+.bands{
+	margin-left: 180px;
+}
+.bands .align_center{
+	width: 1187px;
+}
+.bands .align_center h3{
+	border-bottom: 1px solid #C4C0B6;
+	color: #444240;
+	font-size: 16px;
+	font-family: Roboto;
+	padding-bottom: 5px;
+}
